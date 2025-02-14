@@ -15,7 +15,7 @@
     display: flex;
     align-items: center;
     min-height: 100vh;
-    background-image: url(../Mycode/images/HomeDes.jpg);
+    background-image: url(./images/HomeDes.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -25,7 +25,7 @@
     display: flex;
     align-items: center;
     min-height: 100vh;
-    background-image: url(../Mycode/images/letimg.jpg);
+    background-image: url(./images/letimg.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -34,7 +34,7 @@
     display: flex;
     align-items: center;
     min-height: 100vh;
-    background-image: url(../Mycode/images/faveimg.jpg);
+    background-image: url(./images/faveimg.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -43,7 +43,7 @@
     display: flex;
     align-items: center;
     min-height: 100vh;
-    background-image: url(../Mycode/images/1.png);
+    background-image: url(./images/1.png);
     background-size: cover;
     background-position: center;
 }
@@ -52,7 +52,7 @@
     display: flex;
     align-items: center;
     min-height: 100vh;
-    background-image: url(../Mycode/images/2.jpg);
+    background-image: url(./images/2.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -61,7 +61,7 @@
     display: flex;
     align-items: center;
     min-height: 100vh;
-    background-image: url(../Mycode/images/3.jpg);
+    background-image: url(./images/3.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -70,7 +70,7 @@
     display: flex;
     align-items: center;
     min-height: 100vh;
-    background-image: url(../Mycode/images/4.jpg);
+    background-image: url(./images/4.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -79,7 +79,7 @@
     display: flex;
     align-items: center;
     min-height: 100vh;
-    background-image: url(../Mycode/images/5.jpg);
+    background-image: url(./images/5.jpg);
     background-size: cover;
     background-position: center;
 }
@@ -88,7 +88,7 @@
     display: flex;
     align-items: center;
     min-height: 100vh;
-    background-image: url(../Mycode/images/6.jpg);
+    background-image: url(./images/6.jpg);
     background-size: cover;
     background-position: center;
 }
